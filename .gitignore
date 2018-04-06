@@ -1,4 +1,5 @@
 # Ignoring our data provided by the competition
+data/
 data/*.csv
 data/*.csv.zip
 
