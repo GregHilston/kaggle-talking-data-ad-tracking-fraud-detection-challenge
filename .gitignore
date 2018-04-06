@@ -1,8 +1,3 @@
-# Ignoring our data provided by the competition
-data/
-data/*.csv
-data/*.csv.zip
-
 # Created by https://www.gitignore.io/api/osx,macos,python,jupyternotebook
 
 ### JupyterNotebook ###
