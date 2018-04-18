@@ -1,3 +1,6 @@
+# Pickled files
+*.p
+
 # Created by https://www.gitignore.io/api/osx,macos,python,jupyternotebook
 
 ### JupyterNotebook ###
